@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world im Alex 👋
 
 <!--
 **MrPuyuh/MrPuyuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning **C++** and **JS**
+
+![Hi](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZpeGh1NnhjYWJqOXFxNzdlNml4eGR5cWFxa2xueDNuaWN4M2c4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FeVg8ViEczcxG/giphy.gif)
