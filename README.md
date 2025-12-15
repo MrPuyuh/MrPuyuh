@@ -1,5 +1,5 @@
 
-![Alexsi](img/github-header-banner.png)
+![header](img/github-header-banner.png)
 
 ![Hi](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZpeGh1NnhjYWJqOXFxNzdlNml4eGR5cWFxa2xueDNuaWN4M2c4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FeVg8ViEczcxG/giphy.gif)
 
