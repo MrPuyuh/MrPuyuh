@@ -11,4 +11,4 @@ I am a **High School Student** currently building skills in **programming** and 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,js,html,css&theme=dark)](https://skillicons.dev)
 
 ##### My social media
-![https://www.instagram.com/alexsiseptian?igsh=Ymt2c2FzeWFhbTU3](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@alexsi.s.j?_r=1&_t=ZS-92F8Cgo0zXs](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexsiseptian?igsh=Ymt2c2FzeWFhbTU3) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alexsi.s.j?_r=1&_t=ZS-92F8Cgo0zXs)
