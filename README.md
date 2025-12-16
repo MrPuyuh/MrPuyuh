@@ -12,9 +12,9 @@ I am a **High School Student** currently building skills in **programming** and 
 
 | Level | Institution | Year |
 | :--- | :--- | :--- |
-| **Senior High School** | **SMAN 3 BUNGO** | - Present |
-| **Junior High School** | **SMPN 1 Pelepat ilir** |
-| **Primary School** | **SDN134 2** |
+| **Senior High School** | **SMAN 3 BUNGO** | [Tahun Masuk] - Present |
+| **Junior High School** | **SMPN 1 Pelepat ilir** | 2025 |
+| **Primary School** | **SDN134 2** | 2022 |
 
 ---
 
