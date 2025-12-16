@@ -14,7 +14,7 @@ I am a **High School Student** currently building skills in **programming** and 
 | :--- | :--- | :--- |
 | **Senior High School** | **SMAN 3 BUNGO** | 2025 - Present |
 | **Junior High School** | **SMPN 1 Pelepat ilir** | 2022 - 2025 |
-| **Primary School** | **SDN134 2 purwasari** | 2016 - 2022 |
+| **Primary School** | **SDN 134 2** | 2016 - 2022 |
 
 ---
 
