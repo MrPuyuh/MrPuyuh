@@ -32,7 +32,7 @@ I am a **High School Student** currently building skills in **programming** and 
 
 ---
 
-### 🛠️ My Tools
+## 🛠️ My Tools
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/download) [![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/download) [![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/download) [![Wireshark](https://img.shields.io/badge/Wireshark-1679A8?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/download.html) [![Metasploit](https://img.shields.io/badge/Metasploit-EE4026?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/download)
 
