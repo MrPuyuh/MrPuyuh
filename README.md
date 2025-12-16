@@ -8,6 +8,16 @@ I am a **High School Student** currently building skills in **programming** and 
 
 ---
 
+## 📚 Educational Background
+
+| Level | Institution | Year |
+| :--- | :--- | :--- |
+| **Senior High School** | **SMAN 3 BUNGO** | - Present |
+| **Junior High School** | **SMPN 1 Pelepat ilir** |
+| **Primary School** | **SDN134 2** |
+
+---
+
 ## ✨ My Interests
 
 * 💻 **Hacking & Coding:** Love figuring out how things work and building cool stuff (ethically, of course!).
